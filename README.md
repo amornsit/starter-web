@@ -2,7 +2,7 @@
 
 
 This repository is for showing how Git and GitHub work
-Adding a file for rebasing 
+Adding a file for rebasing, then more changest from myfrature brnach too 
 
 ## Purpose
 
