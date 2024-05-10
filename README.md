@@ -19,4 +19,4 @@ Sample website with plenty of files for demos
 Please fork this repository and then issue pull request for review. 
 
 ## Copyright 
-Git training 2024 
+Git training 2024 . Allright reserved
